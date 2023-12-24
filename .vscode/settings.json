@@ -2,5 +2,8 @@
   "cSpell.language": "en,lorem,pt,pt-BR",
   "cSpell.enableFiletypes": [
     "haskell"
+  ],
+  "cSpell.words": [
+    "Datalog"
   ]
 }
