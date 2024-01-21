@@ -2,7 +2,7 @@
 
 ## RFs (requisitos funcionais)
 
-- [x] Should be possible to create a user
+- [x] Should be possible to register a user
 - [] Should be possible to self authenticate
 - [] Should be possible to register a meal
 - [] Should be possible to update all meal data
@@ -17,7 +17,7 @@
 
 ## RNs (Regras de negócio)
 
-- [] A user should not be able to register with same email
+- [x] A user should not be able to register with same email
 - [] A user can only see, update and delete meals which he created
 
 ## RNFs (Requisitos não funcionais)

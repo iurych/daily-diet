@@ -2,9 +2,15 @@ POST http://localhost:3333/users
 Content-Type: 'application/json 
 
 {
-  "name":"teste middleware 1",
-  "email":"example@gmail.com"
+  "name":"teste middleware 8",
+  "email":"example2@gmail.com",
+  "password":"123456"
 }
 
 ###
 GET http://localhost:3333/users
+Content-Type: 'application/json'
+
+###
+DELETE http://localhost:3333/users
+Content-Type: 'application/json'
